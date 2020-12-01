@@ -1,0 +1,54 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+  }
+  header{
+    width:100%;
+    background-color:#353a40;
+    letter-spacing: 1px;
+  
+  }
+  #menu{
+    display: inline-block;
+
+  }
+  #menu button{
+    display: inline-block;
+   
+    background: #353a40;
+    color:white;
+    border-style: none;
+    margin-left:10px;
+    height:50px;
+    font-weight: 800;
+    font-size: 18px;
+  }
+  #search{
+    display: inline;
+    color:white;
+    border-style: none;
+    margin-left:60%;
+    height: 30px;
+    font-weight: 800;
+    font-size: 18px;
+  }
+  #search button{
+    height:30px
+    
+    }
+  h1{
+    display: inline;
+    color:#dadee1;
+  }
+  h2{
+    display: inline-block;
+    color:#2c2e31;
+  }
+  #login{
+      display:flex;
+      justify-content: space-evenly;
+      margin-bottom:30px;
+  }
+  #my-form{
+      margin-bottom:150px;
+  }
